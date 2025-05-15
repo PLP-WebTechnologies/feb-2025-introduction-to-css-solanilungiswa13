@@ -1,0 +1,48 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 1em;
+}
+
+.intro {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 1.5em;
+}
+
+# myImage {
+  width: 300px;
+  height: auto;
+  border: 5px solid #ccc;
+  margin: 20px 0;
+  padding: 10px;
+  display: block; /* Makes the image a block-level element */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+# special {
+  font-weight: bold;
+  color: #007bff;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.container {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.container p {
+  color: #0056b3;
+}
